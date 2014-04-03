@@ -178,14 +178,14 @@
 			<parent link="${prefix}staubli_rx60l_link5"/>
 			<child link="${prefix}staubli_rx60l_link6"/>
 			<axis xyz="0 1 0"/>
-			<limit effort="100" velocity="5.585053606" lower="-1.911135531" upper="2.103121749"/>
+			<limit effort="100" velocity="5.585053606" lower="-1.78" upper="1.86"/>
 		</joint>	
 		<joint name="${prefix}joint_6" type="revolute">
 			<origin xyz="0 0 0.065"/>
 			<parent link="${prefix}staubli_rx60l_link6"/>
 			<child link="${prefix}staubli_rx60l_link7"/>
 			<axis xyz="0 0 1"/>
-			<limit effort="100" velocity="12.217304764" lower="-4.71238898" upper="4.71238898"/>
+			<limit effort="100" velocity="12.217304764" lower="-6.2" upper="6.2"/>
 		</joint>
 		<joint name="${prefix}joint_6-tool0" type="fixed">
 			<parent link="${prefix}staubli_rx60l_link7"/>
