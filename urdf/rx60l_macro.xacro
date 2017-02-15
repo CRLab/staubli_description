@@ -6,7 +6,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Yellow">
 					<color rgba="245 196 0 1.0"/>
@@ -15,7 +15,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/collision/rx60bl_hb.stl" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/collision/rx60bl_hb.stl" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -26,7 +26,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb1.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb1.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Yellow">
 					<color rgba="245 196 0 1.0"/>
@@ -35,7 +35,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb1.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb1.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Green">
 					<color rgba="0 0 255 1.0"/>
@@ -46,7 +46,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb2.stl" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb2.stl" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="White">
 					<color rgba="0 0 255 1.0"/>
@@ -55,7 +55,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb2.stl" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb2.stl" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -66,7 +66,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb3.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb3.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Red">
 					<color rgba="0 0 255 1.0"/>
@@ -75,7 +75,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb3.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb3.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -86,7 +86,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb4.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb4.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -95,7 +95,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb4.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb4.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -106,7 +106,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb5.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb5.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Blue">
 					<color rgba="0 0 255 1.0"/>
@@ -126,7 +126,7 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb6.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb6.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Gray">
 					<color rgba="100 100 100 1.0"/>
@@ -135,7 +135,7 @@
 			<collision>
 				<origin xyz="0 0 0" rpy="0 0 0"/>
 				<geometry>
-					<mesh filename="package://staubli/meshes/rx60l/visual/rx60bl_hb6.dae" scale="0.001 0.001 0.001"/>
+					<mesh filename="package://staubli_description/meshes/rx60l/visual/rx60bl_hb6.dae" scale="0.001 0.001 0.001"/>
 				</geometry>
 				<material name="Gray">
 					<color rgba="100 100 100 1.0"/>
